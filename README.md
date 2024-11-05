@@ -1,4 +1,4 @@
-- 👀 Interests: Python Development | Data Analysis
+- 👀 Interests: Python Developer | Data Analysis
 🌱 Currently Learning: Full Stack Python, with a focus on integrating data analysis skills with web development
 💞️ Open to Collaborate: Seeking collaboration on Python-based projects, particularly in data analytics, web development, or any innovative Python application
 📫 Reach Me At: gowthamikurella2002@gmail.com
